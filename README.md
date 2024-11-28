@@ -1,16 +1,41 @@
-# live_loc_tracker
+# 🚀 Live Location Tracker 🌍
 
-A new Flutter project.
+## Overview
+The **Live Location Tracker** is a robust and user-friendly application designed to track, view, and analyze real-time and historical location data. Built with **Flutter** and powered by advanced mapping functionalities, the app is perfect for managing attendance, monitoring travel, or simply visualizing routes.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+### Real-Time Location Tracking
+- View the current location of users/members on an interactive map.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Route Visualization
+- Display traveled routes between two locations, including:
+  - **Start and stop points**
+  - **Total distance**
+  - **Travel duration**
+  - **Stop times** (over 10 minutes)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Timeline View
+- Easily navigate through visited locations filtered by date.
+
+### Interactive Maps
+- Explore routes and locations with seamless map integration.
+
+---
+
+## Tech Stack
+
+### Frontend
+- **Flutter**
+
+### Backend
+- **Map APIs** for real-time location updates
+- **Firebase** or other database systems for storing location data
+
+### Other Libraries
+- **Google Maps** or **Leaflet** for map functionalities
+- **Geolocation plugins** for device tracking
+
+---
